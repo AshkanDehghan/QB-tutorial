@@ -1,26 +1,15 @@
 # کامند های سرور
 ## عمومی
 <div class= "code-block">
-<span class="red">/report</span><span>(منو ریپورت)</span>
-
-
-**```/report (منو ریپورت)```**
-
-**```/job (بررسی شغل)```**
-
-**```/gang (بررسی گنگ)```**
-
-**```/ooc (چت خارج از بازی)```**
-
-**```/me (چت آرپی)```**
-
-**```/cash (بررسی پول نقد)```**
-
-**```/bank  (بررسی پول بانک)```**
-
-**```/crypto (بررسی ارز دیجیتال) ```**
-
-**```/checkcrypto (بررسی قیمت ارز دیجیتال) (نکته : قیمت ارز دیجیتال به قیمت واقعی بیت کوین هست)```**
+<span class="blue">/report</span><span class="black"> (منو ریپورت)</span><br>
+<span class="blue">/job</span><span class="black"> (بررسی شغل)</span><br>
+<span class="blue">/gang</span><span class="black"> (بررسی گنگ)</span><br>
+<span class="blue">/ooc</span><span class="black"> (چت خارج از بازی)</span><br>
+<span class="blue">/me</span><span class="black"> (چت آرپی)</span><br>
+<span class="blue">/cash</span><span class="black"> (بررسی پول نقد)</span><br>
+<span class="blue">/bank</span><span class="black"> (بررسی پول بانک)</span><br>
+<span class="blue">/crypto</span><span class="black"> (بررسی ارز دیجیتال)</span><br>
+<span class="blue">/checkcrypto</span><span class="black"> (بررسی قیمت ارز دیجیتال) (نکته : قیمت ارز دیجیتال به قیمت واقعی بیت کوین هست)</span><br>
 </div>
 
 ## آیتم لباس ها
