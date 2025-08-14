@@ -1,2 +1,2 @@
-- [qb-core](qb/qb-core.md)
-- [qb-vehicleshop](qb/qb-vehicleshop.md)
+- [کامندها](qb/command.md.md)
+- [کیبورد](qb/keyboard.md)
