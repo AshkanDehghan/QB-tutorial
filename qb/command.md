@@ -1,25 +1,24 @@
 ## کامند های سرور
 **```  /report  منو ریپورت```**
 
-**
-```
-Item Lebash ha
 
-/pirahan
-/tshirt
-/dastkesh
-/shalvar
-/kafsh
-/kif
-/zanjir
-/mask
-/kolah
-/ghooshvare
-/saat
-/eynak
-/kamarband
-```
-**
+**```Item Lebash ha**
+
+**/pirahan**
+**/tshirt**
+**/dastkesh**
+**/shalvar
+**/kafsh
+**/kif
+**/zanjir
+**/mask
+**/kolah
+**/ghooshvare
+**/saat
+**/eynak
+**/kamarband```**
+
+
 
 **``` /job (بررسی شغل) ```**
 **``` /gang (بررسی گنگ) ```**
