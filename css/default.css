@@ -58,11 +58,18 @@ span.emoji {
 html,
 body {
   height: 100%;
+   background-image: url('assets/background.png');
+  background-siz: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  color: #c8c8c8;
+   background-image: url('assets/background.png');
+  background-siz: cover;
+    background-position: center;
+    background-repeat: no-repeat;
   font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
   font-size: 15px;
   letter-spacing: 0;
