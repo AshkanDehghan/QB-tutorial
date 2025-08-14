@@ -594,7 +594,12 @@ section.cover blockquote > p > a:hover {
   color: var(--theme-color, #ea6f5a);
 }
 body {
-  background-color: #3f3f3f;
+  background-image: url('assets/background.png');
+  background-siz: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  margin: 0 ;
+  padding: 0 ;
 }
 /* sidebar */
 .sidebar {
