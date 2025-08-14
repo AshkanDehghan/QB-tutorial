@@ -1,2 +1,3 @@
 - [Commands](qb/command.md)
 - [Keyboard](qb/keyboard.md)
+- [rules](qb/rule.md)
