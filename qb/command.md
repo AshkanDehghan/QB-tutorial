@@ -33,44 +33,34 @@
 
 
 ## پلیس
-**```/grantlicense (دادن لایسنس به پلیر) ```**
-
-**```/revokelicense (لغو لاینس پلیر)```**
-
-**```/spikestrip (گذاشتن سریع تیغ) (نکته : در منو پلیس وجود دارد)```**
-
-**```/cuff (دستبند زدن) (نکته : در منو پلیس وجود دارد)```**
-
-**```/escort (حما مجرم) (نکته : در منو پلیس وجود دارد)```**
-
-**```/jail (زندان انداختن مجرم) (نکته : در منو پلیس وجود دارد)```**
-
-**```/unjail (در آوردن از زندان) (نکته : در منو پلیس وجود دارد)```**
-
-**```/fine (جریمه) ```**
-
-**```/takedna (گرقتن دی ان ای)(نکته : نیاز به ظرف خالی)```**
-
-**```/impound (فرستادن ماشین به پارکینگ) ```**
-
-**```/cam (دوربین مداربسته)  (نکته : در منو پلیس وجود دارد)```**
-
+<div class= "code-block">
+  <span class="orange">/grantlicense</span><span class="blue"> (دادن لایسنس به پلیر)</span><br>
+  <span class="orange">/revokelicense</span><span class="blue"> (لغو لاینس پلیر)</span><br>
+  <span class="orange">/spikestrip</span><span class="blue"> (گذاشتن سریع تیغ) (نکته : در منو پلیس وجود دارد)</span><br>
+  <span class="orange">/cuff</span><span class="blue"> (دستبند زدن) (نکته : در منو پلیس وجود دارد)</span><br>
+  <span class="orange">/escort</span><span class="blue"> (حمل مجرم) (نکته : در منو پلیس وجود دارد)</span><br>
+  <span class="orange">/jail</span><span class="blue"> (زندان انداختن مجرم) (نکته : در منو پلیس وجود دارد)</span><br>
+  <span class="orange">/unjail</span><span class="blue"> (در آوردن از زندان) (نکته : در منو پلیس وجود دارد)</span><br>
+  <span class="orange">/fine</span><span class="blue"> (جریمه)</span><br>
+  <span class="orange">/takedna</span><span class="blue"> (گرقتن دی ان ای)(نکته : نیاز به ظرف خالی)</span><br>
+  <span class="orange">/impound</span><span class="blue"> (فرستادن ماشین به پارکینگ)</span><br>
+  <span class="orange">/cam</span><span class="blue"> (نکته : در منو پلیس وجود دارد)</span><br>
+</div>
 
 
 ## بیمارستان
-**```/emsbag  (کیف مدیک)```**
-
+<div class= "code-block">
+  <span class="orange">/emsbag</span><span class="blue"> (کیف مدیک)</span><br>
+</div>
 
 ##  مسابقه
 -  مسابقه خیابانی (این مسابقه با گذاشتن علامت روی نقشه و تعیین قیمت شرط به صورت تک مقصدی میباشد )
 - (نوع دیگر مسابقه ب صورت پیست قابلیت تعیین دور مسابقه و اسکوربورد در گوشی همراه با تنظیمات پیست موجود میباشد )
-
-**```createrace (ساخت مسابقه)```**
-
-**```cancelrace (لغو مسابقه)```**
-
-**```quitrace (خروج  از مسابقه)```**
-
-**```startrace (شروع مسابقه)  ```**         
+<div class= "code-block">
+  <span class="orange">/createrace</span><span class="blue"> (ساخت مسابقه)</span><br>
+  <span class="orange">/cancelrace</span><span class="blue"> (لغو مسابقه)</span><br>
+  <span class="orange">/quitrace</span><span class="blue"> (خروج  از مسابقه)</span><br>
+  <span class="orange">/startrace</span><span class="blue"> (شروع مسابقه)</span><br>
+</div>     
 
 
