@@ -70,7 +70,7 @@ body {
   overflow-x: hidden;
 }
 img {
-  max-width: 10%;
+  max-width: 100%;
 }
 a[disabled] {
   cursor: not-allowed;
