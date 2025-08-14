@@ -1,3 +1,10 @@
+.code-block {
+background: #f4f4f4;
+padding: 10px;
+border-radius: 5px;
+font-family: monospace;  
+  
+}
+
 .red {color: red;}
-.green {color: #1abc9c;}
-.blue {color: blue;}
+.green {color: green;}
