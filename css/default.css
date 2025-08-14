@@ -192,6 +192,10 @@ li input[type='checkbox'] {
   width: 80px;
 }
 main {
+  background-image: url('assets/background.png');
+  background-siz: cover;
+    background-position: center;
+    background-repeat: no-repeat;
   display: block;
   position: relative;
   width: 100vw;
