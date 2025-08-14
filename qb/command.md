@@ -56,6 +56,7 @@
 ##  مسابقه
 -  مسابقه خیابانی (این مسابقه با گذاشتن علامت روی نقشه و تعیین قیمت شرط به صورت تک مقصدی میباشد )
 - (نوع دیگر مسابقه ب صورت پیست قابلیت تعیین دور مسابقه و اسکوربورد در گوشی همراه با تنظیمات پیست موجود میباشد )
+
 <div class= "code-block">
   <span class="orange">/createrace</span><span class="blue"> (ساخت مسابقه)</span><br>
   <span class="orange">/cancelrace</span><span class="blue"> (لغو مسابقه)</span><br>
