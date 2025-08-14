@@ -1,6 +1,10 @@
 # کامند های سرور
 ## عمومی
-**```<span style="color:red">/report</span>  منو ریپورت```**
+<div class= "code-block">
+<span class="red">/report</span>
+</div>
+
+**```/report (منو ریپورت)```**
 
 **```/job (بررسی شغل)```**
 
