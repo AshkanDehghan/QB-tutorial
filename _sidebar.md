@@ -1,2 +1,2 @@
-- [کامندها](qb/command.md)
-- [کیبورد](qb/keyboard.md)
+- [کامندها Commands](qb/command.md)
+- [کیبورد Keyboard](qb/keyboard.md)
