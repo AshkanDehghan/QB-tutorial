@@ -7,15 +7,15 @@
 **/pirahan**
 **/tshirt**
 **/dastkesh**
-**/shalvar
-**/kafsh
-**/kif
-**/zanjir
-**/mask
-**/kolah
-**/ghooshvare
-**/saat
-**/eynak
+**/shalvar**
+**/kafsh**
+**/kif**
+**/zanjir**
+**/mask**
+**/kolah**
+**/ghooshvare**
+**/saat**
+**/eynak**
 **/kamarband**
 ```**
 
