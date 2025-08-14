@@ -14,38 +14,21 @@
 
 ## آیتم لباس ها
 
-
-**```/pirahan```**
-
-**```/tshirt```**
-
-**```/dastkesh```**
-
-**```/shalvar```**
-
-**```/kafsh```**
-
-**```/kif```**
-
-**```/zanjir```**
-
-**```/mask```**
-
-**```/kolah```**
-
-**```/ghooshvare```**
-
-**```/saat```**
-
-**```/eynak```**
-
-**```/kamarband```**
-
-
-
-
-
-
+<div class= "code-block">
+  <span class="orange">/pirahan</span><span class="blue"> (ایتم پیراهن)</span><br>
+  <span class="orange">/tshirt</span><span class="blue"> (ایتم تیشرت)</span><br>
+  <span class="orange">/dastkesh</span><span class="blue"> (ایتم دستکش)</span><br>
+  <span class="orange">/shalvar</span><span class="blue"> (ایتم شلوار)</span><br>
+  <span class="orange">/kafsh</span><span class="blue"> (ایتم کفش)</span><br>
+  <span class="orange">/kif</span><span class="blue"> (ایتم کیف)</span><br>
+  <span class="orange">/zanjir</span><span class="blue"> (ایتم زنجیر)</span><br>
+  <span class="orange">/mask</span><span class="blue"> (ایتم ماسک)</span><br>
+  <span class="orange">/kolah</span><span class="blue"> (ایتم کلاه)</span><br>
+  <span class="orange">/ghooshvare</span><span class="blue"> (ایتم گوشواره)</span><br>
+  <span class="orange">/saat</span><span class="blue"> (ایتم ساعت)</span><br>
+  <span class="orange">/eynak</span><span class="blue"> (ایتم عینک)</span><br>
+  <span class="orange">/kamarband</span><span class="blue"> (ایتم کمربند)</span><br>
+</div>
 
 
 
