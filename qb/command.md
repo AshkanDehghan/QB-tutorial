@@ -37,14 +37,11 @@
   <span class="orange">/grantlicense</span><span class="blue"> (دادن لایسنس به پلیر)</span><br>
   <span class="orange">/revokelicense</span><span class="blue"> (لغو لاینس پلیر)</span><br>
   <span class="orange">/spikestrip</span><span class="blue"> (گذاشتن سریع تیغ) (نکته : در منو پلیس وجود دارد)</span><br>
-  <span class="orange">/cuff</span><span class="blue"> (دستبند زدن) (نکته : در منو پلیس وجود دارد)</span><br>
-  <span class="orange">/escort</span><span class="blue"> (حمل مجرم) (نکته : در منو پلیس وجود دارد)</span><br>
   <span class="orange">/jail</span><span class="blue"> (زندان انداختن مجرم) (نکته : در منو پلیس وجود دارد)</span><br>
   <span class="orange">/unjail</span><span class="blue"> (در آوردن از زندان) (نکته : در منو پلیس وجود دارد)</span><br>
   <span class="orange">/fine</span><span class="blue"> (جریمه)</span><br>
   <span class="orange">/takedna</span><span class="blue"> (گرقتن دی ان ای)(نکته : نیاز به ظرف خالی)</span><br>
   <span class="orange">/impound</span><span class="blue"> (فرستادن ماشین به پارکینگ)</span><br>
-  <span class="orange">/cam</span><span class="blue"> (نکته : در منو پلیس وجود دارد)</span><br>
 </div>
 
 
