@@ -42,6 +42,7 @@
   <span class="orange">/fine</span><span class="blue"> (جریمه)</span><br>
   <span class="orange">/takedna</span><span class="blue"> (گرقتن دی ان ای)(نکته : نیاز به ظرف خالی)</span><br>
   <span class="orange">/impound</span><span class="blue"> (فرستادن ماشین به پارکینگ)</span><br>
+  <span class="orange">/callsign</span><span class="blue"> (تغییر نام مستعار)</span><br>
 </div>
 
 
